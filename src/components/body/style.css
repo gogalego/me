@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+section {
+    text-align: center;
+    padding-top: 10%;
+    height: 100vh;
+}
+
+section h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4.0vw;
+    margin-bottom: 0;
+    width: 40%;
+    margin: 0 auto;
+}
+
+section h2 {
+    font-family: 'Permanent Marker', cursive;
+    width: 40%;
+    margin: 0 auto;
+}
+
+section hr {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.imageProfile {
+    width: 75%;
+    border: 3px solid #6c757d;
+}
+
+.eductionRow {
+    margin-bottom: 30px;
+    text-align: justify;
+}

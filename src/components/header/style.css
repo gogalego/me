@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: lightgrey;
+}
+
+header {
+    /* background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/mountain-range.jpg) no-repeat; */
+    background: url('../../images/header.jpg') no-repeat;
+    background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    height: 100vh;
+}
+
+header img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45.8%;
+}
+
+header a {
+    position: absolute;
+    bottom: 0;
+    height: 80px;
+    width: 100px;
+    background-color: #222222;
+    right: 20%;
+    color: white;
+}
+
+header a i {
+    padding-top: 20px;
+    font-size: 40px
+}
+
+header h1 {
+    top: 2rem;
+    right: 2rem;
+    font-size: 7.75vw;
+    line-height: .8;
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 65px!important;
+    position: relative;
+    top: 30%;
+}
+
+header h1 span {
+    font-size: 5vw;
+}
+
+header h2 {
+    text-align: center;
+    position: relative;
+    top: 30%;
+}
+
+main {
+    background: #fff;
+    position: relative;
+    border: 1px solid #fff;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.4rem;
+    padding: 2rem 25%;
+    line-height: 1.6;
+}
+
+@media all and (max-width: 400px) {
+    main {
+        padding: 2rem;
+    }
+}

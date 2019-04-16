@@ -1,14 +1,14 @@
 {
-  "main.css": "/gogalego/me/static/css/main.5204c11b.chunk.css",
-  "main.js": "/gogalego/me/static/js/main.4ca52d7c.chunk.js",
-  "main.js.map": "/gogalego/me/static/js/main.4ca52d7c.chunk.js.map",
-  "runtime~main.js": "/gogalego/me/static/js/runtime~main.d0a407cc.js",
-  "runtime~main.js.map": "/gogalego/me/static/js/runtime~main.d0a407cc.js.map",
-  "static/js/2.3773d23c.chunk.js": "/gogalego/me/static/js/2.3773d23c.chunk.js",
-  "static/js/2.3773d23c.chunk.js.map": "/gogalego/me/static/js/2.3773d23c.chunk.js.map",
-  "index.html": "/gogalego/me/index.html",
-  "precache-manifest.480e0a586383dd42734875d1628bfea2.js": "/gogalego/me/precache-manifest.480e0a586383dd42734875d1628bfea2.js",
-  "service-worker.js": "/gogalego/me/service-worker.js",
-  "static/css/main.5204c11b.chunk.css.map": "/gogalego/me/static/css/main.5204c11b.chunk.css.map",
-  "static/media/style.css": "/gogalego/me/static/media/header.5d3a57f7.jpg"
+  "main.css": "/me/static/css/main.12cb68fb.chunk.css",
+  "main.js": "/me/static/js/main.9c0fe783.chunk.js",
+  "main.js.map": "/me/static/js/main.9c0fe783.chunk.js.map",
+  "runtime~main.js": "/me/static/js/runtime~main.7f73a39c.js",
+  "runtime~main.js.map": "/me/static/js/runtime~main.7f73a39c.js.map",
+  "static/js/2.3773d23c.chunk.js": "/me/static/js/2.3773d23c.chunk.js",
+  "static/js/2.3773d23c.chunk.js.map": "/me/static/js/2.3773d23c.chunk.js.map",
+  "index.html": "/me/index.html",
+  "precache-manifest.f72f53cba352cd5b28d1dcb6581c20b7.js": "/me/precache-manifest.f72f53cba352cd5b28d1dcb6581c20b7.js",
+  "service-worker.js": "/me/service-worker.js",
+  "static/css/main.12cb68fb.chunk.css.map": "/me/static/css/main.12cb68fb.chunk.css.map",
+  "static/media/style.css": "/me/static/media/header.5d3a57f7.jpg"
 }
